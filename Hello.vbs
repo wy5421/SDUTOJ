@@ -1,3 +1,3 @@
-msgbox("Can I fuck you£¿")
+msgbox("Can I buy something?")
 msgbox("yes")
 msgbox("of course")
